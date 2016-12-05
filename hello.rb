@@ -1,5 +1,5 @@
 # Default is World
-# Author: Julian Fontecha
+# Author: Jim Weirich
 name = ARGV.first || "World"
 
 puts "Hello, #{name}!"
